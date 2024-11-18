@@ -1,0 +1,33 @@
+.title{
+    display: grid; 
+    align-items: center;
+    vertical-align: auto;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.Tetrad{
+    display: flex;
+    justify-content: space-around;
+}
+
+.Figures{
+    display: grid;
+    justify-content: center;
+}
+
+.InfoColumn{
+    display: grid;
+    align-items: center;
+    vertical-align: auto;
+    justify-content: space-evenly;
+    text-align: center;
+    width: 25%;
+}
+
+.images{
+    display: inline;
+}
+.images img{
+    width: 600px;
+    height: 300px;
+}
